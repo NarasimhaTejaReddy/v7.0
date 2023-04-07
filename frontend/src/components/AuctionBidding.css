@@ -1,0 +1,26 @@
+.BidButton {
+  margin-bottom: 20px; 
+}
+
+.AuctionBidding label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.AuctionBidding input[type="text"] {
+  padding: 5px;
+  border-radius: 3px;
+  border: 2px solid black;
+  font-size: 16px;
+  margin-left: 100px;
+  width: 450px;
+  
+}
+
+.status-label{
+  font-size: 14px;
+font-weight: bold;
+color: red;
+}

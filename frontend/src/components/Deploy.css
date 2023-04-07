@@ -1,0 +1,20 @@
+
+.DeployButton {
+  margin-bottom: 20px;
+}
+
+.Deploy label {
+  display: block;
+  margin-bottom: 10px;
+
+}
+
+.Deploy input[type="text"] {
+  padding: 5px;
+  border-radius: 3px;
+  border: 2px solid black;
+  font-size: 16px;
+  margin-left: 100px;
+  width: 400px
+}
+

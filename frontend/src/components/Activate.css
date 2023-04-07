@@ -1,0 +1,18 @@
+
+  .Activate label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .Activate input[type="text"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+    font-size: 16px;
+    margin-left: 10px;
+    width: 400px
+  }
+  
+  
